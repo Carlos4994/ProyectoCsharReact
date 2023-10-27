@@ -70,7 +70,6 @@ C:\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Persistencia.dll
 C:\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Aplicacion.pdb
 C:\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Persistencia.pdb
-C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
@@ -83,3 +82,4 @@ C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebA
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
